@@ -1,2 +1,0 @@
-# supplychain
-optimsied supply chain
